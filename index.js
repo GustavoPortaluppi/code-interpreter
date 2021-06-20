@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Parser = require('jison').Parser;
 
-const grammar = fs.readFileSync('calculator.jison', {
+const grammar = fs.readFileSync('grammar.jison', {
   encoding: 'utf8',
   flag: 'r',
 });
