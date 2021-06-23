@@ -1,0 +1,15 @@
+[
+ {"expr": "5 + 5"},
+ {"expr": "5 + -7"},
+ {"expr": "3 + (5 * 2)"},
+ {"expr": "25 / cinco + (um + um)"},
+ {"expr": "7 + (5^3 * 2)"},
+ {"expr": "Qual é o dobro de (um + um)?"},
+ {"expr": "Qual é o triplo de (4 + dois)?"},
+ {"expr": "Qual é o dobro de 7?"},
+ {"expr": "[5]"},
+ {"expr": "[5, 8, dois]"},
+ {"expr": "Qual é o maior elemento da série [5, 8, dois, um, 9]?"},
+ {"expr": "Qual é o menor elemento da série [4, um, 3, 9]?"},
+ {"expr": "Qual é o terceiro elemento da série [7, oito, dez, 2]?"}
+]
